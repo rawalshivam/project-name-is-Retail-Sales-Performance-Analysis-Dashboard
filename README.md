@@ -5,8 +5,9 @@ A comprehensive dashboard analyzing retail sales performance, highlighting top p
 The Retail Sales Performance Analysis Dashboard is designed to track, analyze, and visualize key retail metrics such as sales trends, product performance, customer segments, and regional insights. It helps businesses identify growth opportunities, monitor targets, optimize inventory, and improve overall sales strategies. The dashboard empowers decision-makers with actionable insights to enhance revenue, customer satisfaction, and operational efficiency.
 
 
-3. Tech Stack
-List the key technologies used to build the dashboard.
+4. Tech Stack
+   
+List of key technologies used to build the dashboard.
 
 Example: The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -16,18 +17,20 @@ Example: The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
+   
 The dashboard utilizes retail sales data collected from point-of-sale (POS) systems, customer databases, and inventory management tools. This includes transactional data, customer demographics, product details, sales volumes, and regional performance metrics. The data may be sourced from internal company databases (e.g., SQL Server, Excel sheets) or cloud-based platforms (e.g., Google Sheets, Shopify, or ERP systems).
 
-5. Features / Highlights
-> Visualizes overall sales performance across different time periods
+6. Features / Highlights
+   
+• Visualizes overall sales performance across different time periods
 
-> Highlights top-selling products and underperforming items
+• Highlights top-selling products and underperforming items
 
-> Tracks sales by region, category, and customer segment
+• Tracks sales by region, category, and customer segment
 
-> Identifies high-value and repeat customers
+• Identifies high-value and repeat customers
 
-> Monitors revenue growth and seasonal trends
+• Monitors revenue growth and seasonal trends
 
-> Interactive filters for dynamic data exploration
+• Interactive filters for dynamic data exploration
 
